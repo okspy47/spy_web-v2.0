@@ -10,6 +10,6 @@
 
 ###### Preview:
 
-![This is an image](https://i.imgur.com/7RI9yVo.gif)
+![This is an image](https://i.imgur.com/bdr17nU.gif)
 
 
